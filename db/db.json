@@ -13,7 +13,13 @@
       "released": "October 1, 2020",
       "lyrics": "https://genius.com/Dua-lipa-levitating-lyrics",
       "video": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "So catchy!"
+        }
+      ],
       "liked": false
     },
     {
@@ -29,7 +35,13 @@
       "released": "November 29, 2019",
       "lyrics": "https://genius.com/The-weeknd-blinding-lights-lyrics",
       "video": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "I remember when this song was in the SuperBowl Halftime Show"
+        }
+      ],
       "liked": false
     },
     {
@@ -45,7 +57,13 @@
       "released": "December 3, 2018",
       "lyrics": "https://genius.com/Lil-nas-x-old-town-road-lyrics",
       "video": "https://www.youtube.com/watch?v=9YpvNgCSaCU",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Can't get this song out of my head!"
+        }
+      ],
       "liked": false
     },
     {
@@ -61,7 +79,13 @@
       "released": "January 19, 2018",
       "lyrics": "https://genius.com/Drake-gods-plan-lyrics",
       "video": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "The music video is so wholesome!"
+        }
+      ],
       "liked": false
     },
     {
@@ -77,7 +101,13 @@
       "released": "January 6, 2017",
       "lyrics": "https://genius.com/Ed-sheeran-shape-of-you-lyrics",
       "video": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "First"
+        }
+      ],
       "liked": false
     },
     {
@@ -93,7 +123,13 @@
       "released": "November 9, 2015",
       "lyrics": "https://genius.com/Justin-bieber-love-yourself-lyrics",
       "video": "https://www.youtube.com/watch?v=oyEuk8j8imI",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Nice message!"
+        }
+      ],
       "liked": false
     },
     {
@@ -109,7 +145,13 @@
       "released": "November 10, 2014",
       "lyrics": "https://genius.com/Mark-ronson-uptown-funk-lyrics",
       "video": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Uptown funk you up lol"
+        }
+      ],
       "liked": false
     },
     {
@@ -125,7 +167,13 @@
       "released": "November 21, 2014",
       "lyrics": "https://genius.com/Pharrell-williams-happy-lyrics",
       "video": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "This song is too good to be made for a minions movie"
+        }
+      ],
       "liked": false
     },
     {
@@ -141,7 +189,13 @@
       "released": "August 27, 2012",
       "lyrics": "https://genius.com/Macklemore-and-ryan-lewis-thrift-shop-lyrics",
       "video": "https://www.youtube.com/watch?v=QK8mJJJvaes",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Weird flex but okay"
+        }
+      ],
       "liked": false
     },
     {
@@ -157,7 +211,13 @@
       "released": "July 5, 2011",
       "lyrics": "https://genius.com/Gotye-somebody-that-i-used-to-know-lyrics",
       "video": "https://www.youtube.com/watch?v=8UVNT4wvIGY",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Where did Gotye go after this song?"
+        }
+      ],
       "liked": false
     },
     {
@@ -173,7 +233,13 @@
       "released": "November 29, 2010",
       "lyrics": "https://genius.com/Adele-rolling-in-the-deep-lyrics",
       "video": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Adele is a national treasure!"
+        }
+      ],
       "liked": false
     },
     {
@@ -189,7 +255,13 @@
       "released": "August 7, 2009",
       "lyrics": "https://genius.com/Kesha-tik-tok-lyrics",
       "video": "https://www.youtube.com/watch?v=iP6XpLQM2Cs",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "First!"
+        }
+      ],
       "liked": false
     },
     {
@@ -205,7 +277,13 @@
       "released": "March 31, 2009",
       "lyrics": "https://genius.com/Black-eyed-peas-boom-boom-pow-lyrics",
       "video": "https://www.youtube.com/watch?v=4m48GqaOz90",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Anyone remember when Fergie did the National Anthem?"
+        }
+      ],
       "liked": false
     },
     {
@@ -221,7 +299,13 @@
       "released": "October 9, 2007",
       "lyrics": "https://genius.com/Flo-rida-low-lyrics",
       "video": "https://www.youtube.com/watch?v=U2waT9TxPU0",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Just now realizing his name is Florida like the state but with a space lol"
+        }
+      ],
       "liked": false
     },
     {
@@ -237,7 +321,13 @@
       "released": "October 13, 2006",
       "lyrics": "https://genius.com/Beyonce-irreplaceable-lyrics",
       "video": "https://www.youtube.com/watch?v=2EwViQxSJJQ",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Queen Bee"
+        }
+      ],
       "liked": false
     },
     {
@@ -253,7 +343,13 @@
       "released": "February 8, 2005",
       "lyrics": "https://genius.com/Daniel-powter-bad-day-lyrics",
       "video": "https://www.youtube.com/watch?v=gH476CxJxfg",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Where'd this guy go?"
+        }
+      ],
       "liked": false
     },
     {
@@ -269,7 +365,13 @@
       "released": "March 14, 2005",
       "lyrics": "https://genius.com/Mariah-carey-we-belong-together-lyrics",
       "video": "https://www.youtube.com/watch?v=0habxsuXW4g",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "The lady who sang All I want for Christmas is You has other songs?!?"
+        }
+      ],
       "liked": false
     },
     {
@@ -285,7 +387,13 @@
       "released": "January 27, 2004",
       "lyrics": "https://genius.com/Usher-yeah-lyrics",
       "video": "https://www.youtube.com/watch?v=GxBSyx85Kp8",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "WHAT? -lil jon"
+        }
+      ],
       "liked": false
     },
     {
@@ -301,7 +409,13 @@
       "released": "January 7, 2003",
       "lyrics": "https://genius.com/50-cent-in-da-club-lyrics",
       "video": "https://www.youtube.com/watch?v=5qm8PH4xAss",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "This guy got shot nine times?!?!?"
+        }
+      ],
       "liked": false
     },
     {
@@ -317,7 +431,13 @@
       "released": "July 17, 2001",
       "lyrics": "https://genius.com/Nickelback-how-you-remind-me-lyrics",
       "video": "https://www.youtube.com/watch?v=1cQh1ccqu8M",
-      "comments": [],
+      "comments": [
+        {
+          "id": 1,
+          "user": "Anonymous",
+          "comment": "Nickleback gets a lot of hate but this song slaps!"
+        }
+      ],
       "liked": false
     }
   ]
