@@ -13,8 +13,8 @@
       "released": "October 1, 2020",
       "lyrics": "https://genius.com/Dua-lipa-levitating-lyrics",
       "video": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 2,
@@ -29,8 +29,8 @@
       "released": "November 29, 2019",
       "lyrics": "https://genius.com/The-weeknd-blinding-lights-lyrics",
       "video": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 3,
@@ -45,8 +45,8 @@
       "released": "December 3, 2018",
       "lyrics": "https://genius.com/Lil-nas-x-old-town-road-lyrics",
       "video": "https://www.youtube.com/watch?v=9YpvNgCSaCU",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 4,
@@ -61,8 +61,8 @@
       "released": "January 19, 2018",
       "lyrics": "https://genius.com/Drake-gods-plan-lyrics",
       "video": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 5,
@@ -77,8 +77,8 @@
       "released": "January 6, 2017",
       "lyrics": "https://genius.com/Ed-sheeran-shape-of-you-lyrics",
       "video": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 6,
@@ -93,15 +93,15 @@
       "released": "November 9, 2015",
       "lyrics": "https://genius.com/Justin-bieber-love-yourself-lyrics",
       "video": "https://www.youtube.com/watch?v=oyEuk8j8imI",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 7,
       "song": "Uptown Funk",
       "artist": "Mark Ronson (feat Bruno Mars)",
       "bio": "https://en.wikipedia.org/wiki/Mark_Ronson",
-      "image": "https://en.wikipedia.org/wiki/Uptown_Funk#/media/File:Mark_Ronson_-_Uptown_Funk_(feat._Bruno_Mars)_(Official_Single_Cover).png",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Mark_Ronson_-_Uptown_Funk_%28feat._Bruno_Mars%29_%28Official_Single_Cover%29.png",
       "album": "Uptown Special",
       "producers": "Mark Ronson, Jeff Bhasker, Bruno Mars",
       "genre": "pop",
@@ -109,8 +109,8 @@
       "released": "November 10, 2014",
       "lyrics": "https://genius.com/Mark-ronson-uptown-funk-lyrics",
       "video": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 8,
@@ -125,8 +125,8 @@
       "released": "November 21, 2014",
       "lyrics": "https://genius.com/Pharrell-williams-happy-lyrics",
       "video": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 9,
@@ -141,8 +141,8 @@
       "released": "August 27, 2012",
       "lyrics": "https://genius.com/Macklemore-and-ryan-lewis-thrift-shop-lyrics",
       "video": "https://www.youtube.com/watch?v=QK8mJJJvaes",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 10,
@@ -157,8 +157,8 @@
       "released": "July 5, 2011",
       "lyrics": "https://genius.com/Gotye-somebody-that-i-used-to-know-lyrics",
       "video": "https://www.youtube.com/watch?v=8UVNT4wvIGY",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 11,
@@ -173,8 +173,8 @@
       "released": "November 29, 2010",
       "lyrics": "https://genius.com/Adele-rolling-in-the-deep-lyrics",
       "video": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 12,
@@ -189,8 +189,8 @@
       "released": "August 7, 2009",
       "lyrics": "https://genius.com/Kesha-tik-tok-lyrics",
       "video": "https://www.youtube.com/watch?v=iP6XpLQM2Cs",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 13,
@@ -205,8 +205,8 @@
       "released": "March 31, 2009",
       "lyrics": "https://genius.com/Black-eyed-peas-boom-boom-pow-lyrics",
       "video": "https://www.youtube.com/watch?v=4m48GqaOz90",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 14,
@@ -221,8 +221,8 @@
       "released": "October 9, 2007",
       "lyrics": "https://genius.com/Flo-rida-low-lyrics",
       "video": "https://www.youtube.com/watch?v=U2waT9TxPU0",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 15,
@@ -237,8 +237,8 @@
       "released": "October 13, 2006",
       "lyrics": "https://genius.com/Beyonce-irreplaceable-lyrics",
       "video": "https://www.youtube.com/watch?v=2EwViQxSJJQ",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 16,
@@ -253,8 +253,8 @@
       "released": "February 8, 2005",
       "lyrics": "https://genius.com/Daniel-powter-bad-day-lyrics",
       "video": "https://www.youtube.com/watch?v=gH476CxJxfg",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 17,
@@ -269,8 +269,8 @@
       "released": "March 14, 2005",
       "lyrics": "https://genius.com/Mariah-carey-we-belong-together-lyrics",
       "video": "https://www.youtube.com/watch?v=0habxsuXW4g",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 18,
@@ -285,8 +285,8 @@
       "released": "January 27, 2004",
       "lyrics": "https://genius.com/Usher-yeah-lyrics",
       "video": "https://www.youtube.com/watch?v=GxBSyx85Kp8",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 19,
@@ -301,8 +301,8 @@
       "released": "January 7, 2003",
       "lyrics": "https://genius.com/50-cent-in-da-club-lyrics",
       "video": "https://www.youtube.com/watch?v=5qm8PH4xAss",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     },
     {
       "id": 20,
@@ -317,8 +317,8 @@
       "released": "July 17, 2001",
       "lyrics": "https://genius.com/Nickelback-how-you-remind-me-lyrics",
       "video": "https://www.youtube.com/watch?v=1cQh1ccqu8M",
-      "comments": {},
-      "liked": false
+      "comments": [],
+      "liked": false 
     }
   ]
 }
